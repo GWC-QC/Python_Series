@@ -1,1 +1,1 @@
-# Python_Workshop
+# Welcome to the Series of Python Workshops!

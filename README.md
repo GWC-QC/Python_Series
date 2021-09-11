@@ -4,7 +4,7 @@ Hello, Amir ElTabakh here aka sfnxboy!
 
 I have the privilege to be a Mentor for Girls Who Code Queen’s College. I’ll be teaching Python Fall 21, and we have a lot planned. This Python Series will consist of 4 workshops, details below. 
 
-Intro to Python (September 22, 2021)\\
+Intro to Python (September 22, 2021)\n
 Master the basics of Python. Python is a general-purpose programming language that is becoming ever more popular for data science. Learn to create variables, run loops, create an manipulate lists and write functions in Python. We will also use powerful Python packages to access, explore and manipulate data!
 
 Pandas\\

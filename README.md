@@ -7,7 +7,7 @@ I have the privilege to be a Mentor for Girls Who Code Queen’s College. I’ll
 Each workshop will have a number of components.
 - Main workshop which will be uploaded as an `.ipynb` file
 - The Key to the main workshop lesson. Note: Theres more than one way to go about some of the challenges
-- Breakout Room Practice which will also be uploaded as an `.ipynb` filw
+- Breakout Room Practice which will also be uploaded as an `.ipynb` file
 - Workshop Challenge
 
 Each workshop will come with its own take-home Workshop Challenge! It will test your skills in some real life application. Not everything you need to solve the challenge will be gone over in the workshop, so you'll have to utilize your Google-Fu skills. There is so much documentation out there waiting for you. Work on it with your friends, find innovative ways to solve the challenge, and gain exposure to the plentiful Python libraries and functions out there.

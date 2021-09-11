@@ -10,7 +10,7 @@ Each workshop will have a number of components.
 - Breakout Room Practice which will also be uploaded as an `.ipynb` filw
 - Workshop Challenge
 
-Each workshop will come with its own Workshop Challenge! It will test your skills in some real life application. Not everything you need to solve the challenge will be gone over in the workshop, so you'll have to utilize your Google-Fu skills. There is so much documentation out there waiting for you. Work on it with your friends, find innovative ways to solve the challenge, and gain exposure to the plentiful Python libraries and functions out there.
+Each workshop will come with its own take-home Workshop Challenge! It will test your skills in some real life application. Not everything you need to solve the challenge will be gone over in the workshop, so you'll have to utilize your Google-Fu skills. There is so much documentation out there waiting for you. Work on it with your friends, find innovative ways to solve the challenge, and gain exposure to the plentiful Python libraries and functions out there.
 
 You have full permission to take the lesson and Workshop Challenge and post them on your own GitHub page! In fact, I encourage it. If you don't have a GitHub account yet, sign up [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)! 
 

@@ -15,7 +15,7 @@ Each workshop will come with its own Workshop Challenge! It will test your skill
 You have full permission to take the lesson and Workshop Challenge and post them on your own GitHub page! In fact, I encourage it. If you don't have a GitHub account yet, sign up [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)! 
 
 ---
-### Workshop Details
+### Workshops
 
 **Intro to Python (September 22, 2021)** \
 Master the basics of Python. Python is a general-purpose programming language that is becoming ever more popular for data science. Learn to create variables, run loops, create an manipulate lists and write functions in Python. We will also use powerful Python packages to access, explore and manipulate data!

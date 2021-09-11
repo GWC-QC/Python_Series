@@ -6,7 +6,7 @@ I have the privilege to be a Mentor for Girls Who Code Queen’s College. I’ll
 
 Each workshop will have a number of components.
 - Main workshop which will be uploaded as an `.ipynb` file
-- The Key to the main workshop lesson. Note: There is more than one way to go about some of the challenges
+- The Key to the main workshop lesson. Note: Theres more than one way to go about some of the challenges
 - Breakout Room Practice which will also be uploaded as an `.ipynb` filw
 - Workshop Challenge
 

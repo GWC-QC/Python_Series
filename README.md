@@ -1,4 +1,4 @@
-# Welcome to the Series of Python Workshops!
+# Welcome to the GWC Series of Python Workshops!
 
 Hello, Amir ElTabakh here aka [sfnxboy](https://github.com/sfnxboy)!
 

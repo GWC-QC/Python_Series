@@ -2,7 +2,7 @@
 
 Hello, Amir ElTabakh here aka [sfnxboy](https://github.com/sfnxboy)!
 
-I have the privilege to be a Mentor for Girls Who Code Queen’s College. I’ll be teaching Python Fall 21, and we have a lot planned. This Python Series will consist of 4 workshops, details below. The IDE we will be using is Jupyter Notebook, which is easily [installed](https://github.com/GWC-QC/Python_Series/blob/main/SetUp/Anaconda%20Python%20Installation%20and%20Jupyter%20Notebook.pdf) with the Anaconda software.
+I have the privilege to be a Mentor for Girls Who Code Queen’s College. I’ll be teaching Python Fall 21, and we have a lot planned. This Python Series will consist of 4 workshops, details below. The IDE we will be using is Jupyter Notebook, which is easily installed with the Anaconda software. Details to installing Jupyter Notebook through Anaconda can be found [here](https://github.com/GWC-QC/Python_Series/blob/main/SetUp/Anaconda_Python_Installation_and_Jupyter_Notebook.md).
 
 Each workshop will have a number of components.
 - Main workshop which will be uploaded as an `.ipynb` file

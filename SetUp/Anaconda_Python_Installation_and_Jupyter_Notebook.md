@@ -37,6 +37,8 @@ and document python code. Though there are multiple ways to install and run jupy
 Anaconda is the preferred way to run jupyter. After installing anaconda (version 3.x), you can follow
 the steps below to start jupyter notebook.
 
+A good resource to familiarize yourself with Jupyter Notebook: [How to Use Jupyter Notebook in 2020: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+
 ## Anaconda Jupyter Notebook
 ### MAC,Windows, and Linux
 - navigate to http://docs.anaconda.com/anaconda/user-guide/getting-started/

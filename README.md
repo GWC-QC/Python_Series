@@ -34,4 +34,4 @@ Learn how to extract data, transform and analyze images using the NumPy and SciK
 ### Resources
 
 - [Second Edition of Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-
+- [Style Guide for Python Code PEP 8](https://www.python.org/dev/peps/pep-0008/)

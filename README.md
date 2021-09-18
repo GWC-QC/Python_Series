@@ -41,10 +41,9 @@ Learn how to extract data, transform and analyze images using the NumPy and SciK
 #### Textbooks:
 - [Green Tea Press](https://greenteapress.com/wp/think-python-2e/)
 - [Second Edition of Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-
-https://diveintopython3.net/ 
+- [Dive Into Python3](https://diveintopython3.net/)
 
 #### Interactive Learning:
-- [learnpython](https://www.learnpython.org)
+- [Learn Python](https://www.learnpython.org)
 - [Scrimba](https://scrimba.com/g/gpython)
 

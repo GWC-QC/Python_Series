@@ -33,5 +33,18 @@ Learn how to extract data, transform and analyze images using the NumPy and SciK
 ---
 ### Resources
 
-- [Second Edition of Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Style Guide for Python Code PEP 8](https://www.python.org/dev/peps/pep-0008/)
+
+#### Crash Course: 
+- https://cs50.harvard.edu/college/2019/fall/weeks/6/
+
+#### Textbooks:
+- https://greenteapress.com/wp/think-python-2e/
+- [Second Edition of Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+https://diveintopython3.net/ 
+
+#### Interactive Learning:
+- https://www.learnpython.org
+- https://scrimba.com/g/gpython
+

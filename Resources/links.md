@@ -1,6 +1,6 @@
 # Free Resources! 
 
-### Crash Cource: 
+### Crash Course: 
 https://cs50.harvard.edu/college/2019/fall/weeks/6/
 
 ### Textbooks:

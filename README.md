@@ -34,6 +34,9 @@ Learn how to extract data, transform and analyze images using the NumPy and SciK
 ### Resources
 
 - [Style Guide for Python Code PEP 8](https://www.python.org/dev/peps/pep-0008/)
+#### Online IDE:
+- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) (alternative to jupyter notebook)
+- [Replit](https://replit.com/~)
 
 #### Crash Course: 
 - [Harvard Crash Course](https://cs50.harvard.edu/college/2019/fall/weeks/6/)

@@ -39,7 +39,8 @@ Learn how to extract data, transform and analyze images using the NumPy and SciK
 - [Replit](https://replit.com/~)
 
 #### Crash Course: 
-- [Harvard Crash Course](https://cs50.harvard.edu/college/2019/fall/weeks/6/)
+- [Harvard Crash Course: cs50 week 6 in Python](https://cs50.harvard.edu/college/2019/fall/weeks/6/)
+- [Udacity: Data Structures and Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
 #### Textbooks:
 - [Green Tea Press](https://greenteapress.com/wp/think-python-2e/)
@@ -50,3 +51,5 @@ Learn how to extract data, transform and analyze images using the NumPy and SciK
 - [Learn Python](https://www.learnpython.org)
 - [Scrimba](https://scrimba.com/g/gpython)
 
+#### Practice Python Coding:
+- [Hackerrank](https://www.hackerrank.com/domains/python)

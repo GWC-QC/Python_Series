@@ -18,16 +18,16 @@ You have full permission to take the lesson and Workshop Challenge and post them
 ---
 ### Workshops
 
-**Intro to Python (September 22, 2021)** \
+**[Intro to Python](https://github.com/GWC-QC/Python_Series/tree/main/Workshops/Intro_to_Python) (September 22, 2021)** \
 Master the basics of Python. Python is a general-purpose programming language that is becoming ever more popular for data science. Learn to create variables, run loops, create an manipulate lists and write functions in Python. We will also use powerful Python packages to access, explore and manipulate data!
 
-**Pandas (October 11,2021)**\
+**[Pandas](https://github.com/GWC-QC/Python_Series/tree/main/Workshops/Pandas) (October 11, 2021)**\
 Pandas is the most popular Python library. Programmers use it for everything from data manipulation to data analysis. We'll go over the basics of Pandas, learn how to explore data and calculate summary statistics, manipulate data, and create visualizations.  
 
-**Web Scraping (November 1,2021)** \
+**Web Scraping (November 1, 2021)** \
 The ability to build tools capable of retrieving and parsing information stored across the internet is incredibly valuable. After a brief introduction to HTML, we'll build bots to scrape data off the internet. We'll also review the ethics of web scraping, and best practices.  
 
-**Image Processing (November 22,2021)** \
+**Image Processing (November 22, 2021)** \
 Learn how to extract data, transform and analyze images using the NumPy and SciKit-image packages. This workshop will also teach you how to restore images, remove objects, logos, text and damages areas in pictures! We'll also touch on detecting objects such as faces, profiles, and your favorite pets in images.
 
 ---

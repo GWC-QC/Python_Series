@@ -24,7 +24,7 @@ Master the basics of Python. Python is a general-purpose programming language th
 **[Pandas](https://github.com/GWC-QC/Python_Series/tree/main/Workshops/Pandas) (October 11, 2021)**\
 Pandas is the most popular Python library. Programmers use it for everything from data manipulation to data analysis. We'll go over the basics of Pandas, learn how to explore data and calculate summary statistics, manipulate data, and create visualizations.  
 
-**Web Scraping (November 1, 2021)** \
+**[Web Scraping](https://github.com/GWC-QC/Python_Series/blob/main/Workshops/Web%20Scraping/GWC%20Web%20Scraping%20Workshop.ipynb) (November 1, 2021)** \
 The ability to build tools capable of retrieving and parsing information stored across the internet is incredibly valuable. After a brief introduction to HTML, we'll build bots to scrape data off the internet. We'll also review the ethics of web scraping, and best practices.  
 
 **Image Processing (November 22, 2021)** \

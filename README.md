@@ -27,7 +27,7 @@ Pandas is the most popular Python library. Programmers use it for everything fro
 **[Web Scraping](https://github.com/GWC-QC/Python_Series/blob/main/Workshops/Web%20Scraping/GWC%20Web%20Scraping%20Workshop.ipynb) (November 1, 2021)** \
 The ability to build tools capable of retrieving and parsing information stored across the internet is incredibly valuable. After a brief introduction to HTML, we'll build bots to scrape data off the internet. We'll also review the ethics of web scraping, and best practices.  
 
-**Image Processing (November 22, 2021)** \
+**[Image Processing](https://github.com/GWC-QC/Python_Series/blob/main/Workshops/Image%20Processing/Image%20Processing%20Workshop.ipynb) (November 22, 2021)** \
 Learn how to extract data, transform and analyze images using the NumPy and SciKit-image packages. This workshop will also teach you how to restore images, remove objects, logos, text and damages areas in pictures! We'll also touch on detecting objects such as faces, profiles, and your favorite pets in images.
 
 ---
